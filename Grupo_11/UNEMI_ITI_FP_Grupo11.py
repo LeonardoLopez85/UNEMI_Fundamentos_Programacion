@@ -12,4 +12,4 @@ else:
     print("El número es cero.")
 
 # Esta línea mantendrá la ventana abierta
-input("Presiona Enter para salir...
+input("Presiona Enter para salir...")
